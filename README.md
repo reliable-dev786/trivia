@@ -1,5 +1,5 @@
 # quiz_app
-
+I will do every thing that is in Requirement document but due to shortage of time i do only this
 A new Flutter project.
 
 ## Getting Started
